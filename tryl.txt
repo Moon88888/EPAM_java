@@ -4,4 +4,7 @@ ok
 bye.
 ....
 adding for gui
+<<<<<<< HEAD
 hello
+=======
+>>>>>>> parent of 9461c97 (Revert "add")
