@@ -4,4 +4,4 @@ ok
 bye.
 ....
 adding for gui
-tryl.
+tryl..
