@@ -4,4 +4,3 @@ ok
 bye.
 ....
 adding for gui
-tryl..soft..
