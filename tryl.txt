@@ -8,4 +8,9 @@ adding for gui
 <<<<<<< HEAD
 <<<<<<< HEAD
 hello
-
+=======
+>>>>>>> parent of 9461c97 (Revert "add")
+=======
+>>>>>>> parent of 9461c97 (Revert "add")
+=======
+>>>>>>> parent of 9461c97 (Revert "add")
